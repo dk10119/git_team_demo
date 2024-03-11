@@ -1,3 +1,3 @@
 # Dana
 
-Team work is important!
+Team work is very important!
