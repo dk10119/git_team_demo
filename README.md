@@ -2,7 +2,7 @@
 
 Team work is very important!
 That's what they say.
-At least ...
+At least ....
 
 # Alex
 
