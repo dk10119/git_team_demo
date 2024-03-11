@@ -1,7 +1,7 @@
 # Dana
 
 Team work is quite important!
-That's what Dana say.
+That's what Dana say...
 
 # Alex
 
